@@ -1,6 +1,6 @@
 name: Dotcom Acceptance Tests (All)
 
-on:
+on:.github/workflows/dotcom-acceptance-tests-all.yml 
   schedule:
     #         ┌───────────── minute (0 - 59)
     #         │ ┌───────────── hour (0 - 23)
